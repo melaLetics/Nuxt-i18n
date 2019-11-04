@@ -1,0 +1,11 @@
+{
+  "intro": "This is just a simple example of how to make a multilanguage app using NUXT.",
+  "switch": "Choose another language",
+  "button_text": "Change language",
+  "title": "Change language",
+  "message": "Should the language been changed?",
+  "cancelText": "Cancel",
+  "confirmText": "OK",
+  "agreedText": "Language changed",
+  "disagreedText": "Any changes"
+}
